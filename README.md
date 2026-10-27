@@ -4,6 +4,8 @@ A tiny, lightweight Windows app that shuts your computer down after a time you c
 
 No installer. No setup. Download the zip, extract it, open the .exe file, and it's ready to use.
 
+If you like the app, you can support the author here: https://www.donationalerts.com/r/gl1tch19
+
 ## What is it for?
 
 Shutdown Timer is useful whenever you want your PC to turn itself off later, without you being there:
@@ -126,3 +128,14 @@ You only need this if you want to compile the app yourself instead of using the 
 ## Project structure
 
 The zip contains 3 files:
+ShutdownTimer.exe Ready-to-use app (just open it)
+ShutdownTimer.cs Source code (C#, Windows Forms)
+Build.bat One-click build script using the built-in Windows C# compiler
+
+## Support the project
+
+Shutdown Timer is free and will stay free. If it saved you some time or made your evenings a bit more comfortable, you can support the author with a donation:
+
+https://www.donationalerts.com/r/gl1tch19
+
+Every donation helps to keep improving the app and make new useful tools. Thank you!
