@@ -139,3 +139,7 @@ Shutdown Timer is free and will stay free. If it saved you some time or made you
 https://www.donationalerts.com/r/gl1tch19
 
 Every donation helps to keep improving the app and make new useful tools. Thank you!
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
