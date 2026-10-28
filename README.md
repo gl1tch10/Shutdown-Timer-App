@@ -6,6 +6,10 @@ A tiny, lightweight Windows app that shuts down, restarts or puts your computer 
 
 No installer. No setup. Download the zip, extract it, open the .exe file, and it's ready to use.
 
+Found a bug in the app? Please describe what happened, what you expected to happen, and the steps to reproduce it: https://noteforms.com/forms/shutdown-app-bug-report-02zoug
+
+Thank you for reporting the bug!
+
 If you like the app, you can support the author here: https://www.donationalerts.com/r/gl1tch19
 
 ## What is it for?
