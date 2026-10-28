@@ -1,6 +1,6 @@
 # Shutdown Timer
 
-<img width="800" height="800" alt="Неоновый циферблат в сумерках" src="https://github.com/user-attachments/assets/86af6d84-ae8d-43bf-8d87-9a66bd82495e" />
+<img width="800" height="600" alt="Неоновый циферблат в сумерках" src="https://github.com/user-attachments/assets/86af6d84-ae8d-43bf-8d87-9a66bd82495e" />
 
 A tiny, lightweight Windows app that shuts your computer down after a time you choose. Enter hours, minutes and/or seconds, click one button, and Windows will power off when the countdown ends.
 
